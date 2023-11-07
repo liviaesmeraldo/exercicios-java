@@ -1,4 +1,4 @@
-package FormulasMatematicas;
+package Strings;
 
 import java.util.Scanner;
 
