@@ -1,5 +1,3 @@
-package Vetores;
-
 import java.util.Scanner;
 
 public class SomaElementosVetor {
